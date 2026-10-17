@@ -5,11 +5,11 @@
   Sustituye todo lo que está entre < > .
 -->
 
-# Hi, I'm <Juan Luque Roldan> 👋
+# Hi, I'm Juan Luque Roldan 👋
 
 C++ engine and graphics programmer. I build real-time rendering systems from the ground up: Vulkan, ECS architectures, job systems, procedural generation in Unreal Engine 5.
 
-Recently graduated in <GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS> at UDIT (Madrid). Looking for my first engine / graphics / gameplay programming role.
+Recently graduated in Bachelor’s Degree in Video Game Design and Development at UDIT (Madrid). Looking for my first engine / graphics / gameplay programming role.
 
 ---
 
@@ -45,7 +45,7 @@ Recently graduated in <GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS> at UDIT (Ma
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Izana-L/Open-GL-Engine">
-        <img src="https://raw.githubusercontent.com/Izana-L/Open-GL-Engine/main/docs/images/Screenshot_OpenGl.png" alt="OpenGL Engine" width="100%">
+        <img src="https://media.githubusercontent.com/media/Izana-L/Open-GL-Engine/main/docs/images/Screenshot_OpenGl.png" alt="OpenGL Engine" width="100%">
       </a>
       <h3><a href="https://github.com/Izana-L/Open-GL-Engine">OpenGL Engine</a></h3>
       <p>Small 3D engine on OpenGL 3.3 and SDL3: scene graph, materials, lighting, input and window abstraction. ~6k lines.</p>
