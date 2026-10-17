@@ -45,7 +45,7 @@ Recently graduated in <GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS> at UDIT (Ma
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Izana-L/Open-GL-Engine">
-        <img src="https://raw.githubusercontent.com/Izana-L/ProceduralEcosystem/main/docs/images/Screenshot_Procedural_Forest.png" alt="OpenGL Engine" width="100%">
+        <img src="https://raw.githubusercontent.com/Izana-L/Open-GL-Engine/main/docs/images/Screenshot_OpenGl.png" alt="OpenGL Engine" width="100%">
       </a>
       <h3><a href="https://github.com/Izana-L/Open-GL-Engine">OpenGL Engine</a></h3>
       <p>Small 3D engine on OpenGL 3.3 and SDL3: scene graph, materials, lighting, input and window abstraction. ~6k lines.</p>
@@ -87,19 +87,4 @@ Recently graduated in <GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS> at UDIT (Ma
 <!--
   Opcional, al final. Las estadísticas de GitHub tardan en cargar y a veces fallan; si las pones, que sea solo una:
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izana-L&layout=compact&hide=html,css)
--->
-
-<!--
-**Izana-L/Izana-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
