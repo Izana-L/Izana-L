@@ -30,7 +30,7 @@ Recently graduated in Bachelor’s Degree in Video Game Design and Development a
         <img src="https://raw.githubusercontent.com/Izana-L/VulkanEngine_Izana/main/docs/images/Screenshot_Vulkan.png" alt="Vulkan Engine" width="100%">
       </a>
       <h3><a href="https://github.com/Izana-L/VulkanEngine_Izana">Vulkan Engine</a></h3>
-      <p>3D rendering engine in C++20. GPU-driven rendering with compute frustum culling and indirect draw, bindless textures, clustered lighting, OIT transparency, custom ECS and job system. ~40k lines, 13 modules.</p>
+      <p>3D rendering engine in C++20. GPU-driven rendering with compute frustum culling and indirect draw, bindless textures, clustered lighting, OIT transparency, custom ECS and job system. 13 modules.</p>
       <p><code>C++20</code> <code>Vulkan</code> <code>ECS</code> <code>GPU-driven</code></p>
     </td>
     <td width="50%" valign="top">
@@ -38,7 +38,7 @@ Recently graduated in Bachelor’s Degree in Video Game Design and Development a
         <img src="https://media.githubusercontent.com/media/Izana-L/ProceduralEcosystem/main/docs/images/Screenshot_Procedural_Forest.png" alt="Procedural Ecosystem" width="100%">
       </a>
       <h3><a href="https://github.com/Izana-L/ProceduralEcosystem">Procedural Ecosystem</a></h3>
-      <p>Bachelor's thesis. Forest ecosystem simulation in Unreal Engine 5.7: terrain, water, species competition and growth over simulated years, LOD and automation tests. ~23k lines of C++.</p>
+      <p>Bachelor's thesis. Forest ecosystem simulation in Unreal Engine 5.7: terrain, water, species competition and growth over simulated years, LOD and automation tests.</p>
       <p><code>Unreal Engine 5</code> <code>C++</code> <code>Procedural generation</code> <code>Simulation</code></p>
     </td>
   </tr>
@@ -48,7 +48,7 @@ Recently graduated in Bachelor’s Degree in Video Game Design and Development a
         <img src="https://raw.githubusercontent.com/Izana-L/Open-GL-Engine/main/docs/images/Screenshot_OpenGl.png" alt="OpenGL Engine" width="100%">
       </a>
       <h3><a href="https://github.com/Izana-L/Open-GL-Engine">OpenGL Engine</a></h3>
-      <p>Small 3D engine on OpenGL 3.3 and SDL3: scene graph, materials, lighting, input and window abstraction. ~6k lines.</p>
+      <p>Small 3D engine on OpenGL 3.3 and SDL3: scene graph, materials, lighting, input and window abstraction.</p>
       <p><code>C++</code> <code>OpenGL 3.3</code> <code>SDL3</code></p>
     </td>
     <td width="50%" valign="top">
