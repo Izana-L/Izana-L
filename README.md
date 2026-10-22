@@ -70,7 +70,7 @@ Looking for my first C++ role in engine, graphics,simulation or high-performance
 
 - LinkedIn: [Juan Luque Roldan](https://www.linkedin.com/in/juan-luque-roldan-73b090331/)
 - Email: <izanaluque@gmail.com>
-- CV: [PDF](<enlace al CV, o quítalo>)
+- CV: [PDF](CV_Juan_Luque_Roldan.pdf)
 
 
 
