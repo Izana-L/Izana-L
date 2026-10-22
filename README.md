@@ -1,9 +1,4 @@
-<!--
-  README de perfil. Este fichero va en el repositorio Izana-L/Izana-L (mismo nombre que tu usuario),
-  en la raíz, como README.md. GitHub lo muestra automáticamente en la portada de tu perfil.
-  Los comentarios HTML como este no se ven. Borra los que no necesites.
-  Sustituye todo lo que está entre < > .
--->
+
 
 # Hi, I'm Juan Luque Roldan 👋
 
@@ -15,13 +10,7 @@ Recently graduated in Bachelor’s Degree in Video Game Design and Development a
 
 ## Main projects
 
-<!--
-  Las imágenes: sube una captura por proyecto a la carpeta docs/img/ DE CADA REPO y enlázala con la URL "raw", por ejemplo:
-  https://raw.githubusercontent.com/Izana-L/VulkanEngine_Izana/main/docs/img/overview.png
-  O más sencillo: crea una carpeta img/ en este mismo repo de perfil y pon aquí las cuatro capturas.
-  Tamaño recomendado: 1280x720, PNG o GIF de pocos segundos (<10 MB).
-  https://github.com/Izana-L/VulkanEngine_Izana/blob/main/docs/images/Screenshot_Vulkan.png
--->
+
 
 <table>
   <tr>
@@ -67,9 +56,9 @@ Recently graduated in Bachelor’s Degree in Video Game Design and Development a
 
 ## What I work with
 
-- **Languages:** C++20, C, Lua, Python (tooling), HLSL/GLSL
+- **Languages:** C++20, C#, HLSL/GLSL
 - **Graphics:** Vulkan, OpenGL
-- **Engines:** Unreal Engine 5 (C++ and Blueprints), own engines
+- **Engines:** Unreal Engine 5 (C++ and Blueprints),Unity and own engines
 - **Architecture:** ECS, job systems, data-oriented design, multithreading
 - **Tools:** Visual Studio, Zed, CMake, Git
 
@@ -84,7 +73,4 @@ Recently graduated in Bachelor’s Degree in Video Game Design and Development a
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izana-L&layout=compact&hide=html,css)
-<!--
-  Opcional, al final. Las estadísticas de GitHub tardan en cargar y a veces fallan; si las pones, que sea solo una:
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izana-L&layout=compact&hide=html,css)
--->
+
