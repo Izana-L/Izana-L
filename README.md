@@ -5,6 +5,7 @@
 C++ engine and graphics programmer. I build real-time rendering systems from the ground up: Vulkan, ECS architectures, job systems, procedural generation in Unreal Engine 5.
 
 Recently graduated with a Bachelor’s degree in Video Game Design and Development from UDIT (Madrid). Looking for my first engine / graphics / gameplay programming role.
+
 Looking for my first C++ role in engine, graphics,simulation or high-performance systems programing.
 
 ---
