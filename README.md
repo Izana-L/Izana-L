@@ -5,7 +5,7 @@
 C++ engine and graphics programmer. I build real-time rendering systems from the ground up: Vulkan, ECS architectures, job systems, procedural generation in Unreal Engine 5.
 
 Recently graduated with a Bachelor’s degree in Video Game Design and Development from UDIT (Madrid). Looking for my first engine / graphics / gameplay programming role.
-
+Looking for my first C++ role in engine, graphics, simulation or high-performance systems programming.
 ---
 
 ## Main projects
@@ -19,7 +19,7 @@ Recently graduated with a Bachelor’s degree in Video Game Design and Developme
         <img src="https://raw.githubusercontent.com/Izana-L/VulkanEngine_Izana/main/docs/images/Screenshot_Vulkan.png" alt="Vulkan Engine" width="100%">
       </a>
       <h3><a href="https://github.com/Izana-L/VulkanEngine_Izana">Vulkan Engine</a></h3>
-      <p>3D rendering engine in C++20. GPU-driven rendering with compute frustum culling and indirect draw, bindless textures, clustered lighting, OIT transparency, custom ECS and job system. 13 modules.</p>
+      <p>3D rendering engine in C++20. GPU-driven rendering with compute frustum culling and indirect draw, bindless textures, clustered lighting, OIT transparency, custom ECS and job system.</p>
       <p><code>C++20</code> <code>Vulkan</code> <code>ECS</code> <code>GPU-driven</code></p>
     </td>
     <td width="50%" valign="top">
